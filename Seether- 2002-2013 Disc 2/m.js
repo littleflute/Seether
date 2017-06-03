@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Seether.mp3";		
+f[2]	= "02 Safe to Say I've Had Enough.mp3";		
+f[3]	= "03 Weak.mp3";		
+f[4]	= "04 Out of My Way.mp3";		
+f[5]	= "05 Hang On.mp3";		
+f[6]	= "06 Blister.mp3";		
+f[7]	= "07 Innocence.mp3";		
+f[8]	= "08 Let Me Go.mp3";		
+f[9]	= "09 No Shelter.mp3";		
+f[10]	= "10 Burn the Bridges [Demo][Demo Version].mp3";		
+f[11]	= "11 Butterfly with Teeth [Demo][Demo Version].mp3";		
+f[12]	= "12 Melodious [Demo][Demo Version].mp3";		
