@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Fine Again.mp3";		
+f[2]	= "02 Driven Under.mp3";		
+f[3]	= "03 Gasoline.mp3";		
+f[4]	= "04 Broken.mp3";		
+f[5]	= "05 Remedy.mp3";		
+f[6]	= "06 Truth.mp3";		
+f[7]	= "07 The Gift.mp3";		
+f[8]	= "08 Fake It.mp3";		
+f[9]	= "09 Rise Above This.mp3";		
+f[10]	= "10 Breakdown.mp3";		
+f[11]	= "11 Careless Whisper.mp3";		
+f[12]	= "12 Country Song.mp3";		
+f[13]	= "13 Tonight.mp3";		
+f[14]	= "14 No Resolution.mp3";		
+f[15]	= "15 Here and Now.mp3";		
